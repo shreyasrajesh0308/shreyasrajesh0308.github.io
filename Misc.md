@@ -31,5 +31,5 @@ I enjoy football related podcasts and ones that discuss general ideas as well as
 * [Lex Fridman Podcast](https://www.youtube.com/lexfridman)
 * [Making Sense with Sam Harris](https://www.samharris.org/podcasts) 
 * [Tifo Football Podcast](https://www.youtube.com/c/TifoIRL)
-* [Gab and Jules Show]
+* [Gab and Jules Show](https://open.spotify.com/show/3QaGBvwVZ21OgzmZkN8B9N)
 * [Arseblog - Arsecast](https://arseblog.com/arsecast/)
