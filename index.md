@@ -1,4 +1,4 @@
-Hi! I'm a graduate student at the department of [Electrical and Computer Engineering](https://www.ee.ucla.edu) at [UCLA](https://samueli.ucla.edu).
+Hi! I'm a graduate student at the department of [Electrical and Computer Engineering](https://www.ee.ucla.edu) at [UCLA](https://samueli.ucla.edu). I plan to write to share some technical and non-technical ideas on here and to learn through writing blogposts.
 
 
 ![Me](images/goofy_photo.jpg)
@@ -10,6 +10,3 @@ Hi! I'm a graduate student at the department of [Electrical and Computer Enginee
 * I've joined [SsysArch](https://ssysarch.ee.ucla.edu/index.html) as a student researcher. 
 * I've moved to Los Angeles!
 * I'll be joining UCLA as a masters student in ECE!
-
-
-1. Introductory Post
