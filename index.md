@@ -10,3 +10,6 @@ Hi! I'm a graduate student at the department of [Electrical and Computer Enginee
 * I've joined [SsysArch](https://ssysarch.ee.ucla.edu/index.html) as a student researcher. 
 * I've moved to Los Angeles!
 * I'll be joining UCLA as a masters student in ECE!
+
+
+1. Introductory Post
