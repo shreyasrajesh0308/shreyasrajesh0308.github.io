@@ -9,4 +9,4 @@ Hi! I'm a graduate student at the department of [Electrical and Computer Enginee
 * I'm a Teaching Assistant for LS30B for Winter 22!
 * I've joined [ssysarch](https://ssysarch.ee.ucla.edu/index.html) as a student reasearcher. 
 * I've moved to Los Angeles!
-* I'll be joing UCLA as a masters student in ECE!
+* I'll be joining UCLA as a masters student in ECE!
