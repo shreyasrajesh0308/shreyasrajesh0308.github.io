@@ -1,10 +1,12 @@
-# Books I'm reading at the moment 
+# Misc. 
+
+## Books I'm reading at the moment
 
 * [A Fine Balance](https://www.amazon.com/dp/140003065X?psc=1&ref=ppx_yo2_dt_b_product_details)
 * [The Consolations of Philosophy.](https://www.amazon.com/dp/096500600X?psc=1&ref=ppx_yo2_dt_b_product_details)
 * [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python-second-edition)
 
-# Some of my favourite books (In no particular order)
+## Some of my favourite books (In no particular order)
 
 * Open - Andre Agassi 
 * How to Get Filthy Rich in Rising Asia - Mohsin Hamid
