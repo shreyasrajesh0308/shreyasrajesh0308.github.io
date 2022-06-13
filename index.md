@@ -1,7 +1,7 @@
 Hi! I'm a graduate student at the department of [Electrical and Computer Engineering](https://www.ee.ucla.edu) at [UCLA](https://samueli.ucla.edu). I plan to write to share some technical and non-technical ideas on here and to learn through writing blogposts.
 
 
-![Me](images/goofy_photo.jpg)
+![Me](images/Shreyas_Shipt.jpeg)
 
 # News
 
